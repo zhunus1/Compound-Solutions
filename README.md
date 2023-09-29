@@ -9,9 +9,9 @@ Short desctiption of the task: Develop a tool that analyses a given text and sug
 
 ## Technologies
 While doing this task the following list of tools were used:
-- Google Drive
-- Google Colab
-- Fasttext official documentation
+- [Google Drive](https://drive.google.com/drive/my-drive?hl=ru)
+- [Google Colab](https://colab.research.google.com/?hl=ru)
+- [Fasttext official documentation](https://fasttext.cc/docs/en/english-vectors.html)
 
 ## Running
 In order to run the code you need to do the following steps:
@@ -33,3 +33,5 @@ As a first step I made a small research in order to decide which NLP model to us
 My solution proposes simple technique by preprocessing the input text data reading it from the txt file, lowercasing and tokenizing it, after deleting the stop words and finally removing special characters. Then the same algorithm for preprocessing I applied to my terms.
 
 Then I calculated the vectors for each word in input text as for term words. Finally made a similiarity score by using standart cosine similiarity function.
+
+If you do not understand the short decription of the code structure never mind. [Here]() I attach my link to the video where I explain the code and algorihm itself.
