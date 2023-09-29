@@ -34,4 +34,4 @@ My solution proposes simple technique by preprocessing the input text data readi
 
 Then I calculated the vectors for each word in input text as for term words. Finally made a similiarity score by using standart cosine similiarity function.
 
-If you do not understand the short decription of the code structure never mind. [Here]() I attach my link to the video where I explain the code and algorihm itself.
+If you do not understand the short decription of the code structure never mind. [Here](https://drive.google.com/file/d/18A6qVGiXIFF5Nev8Esic3TZN9wQDWghe/view?usp=sharing) I attach my link to the video where I explain the code and algorihm itself.
